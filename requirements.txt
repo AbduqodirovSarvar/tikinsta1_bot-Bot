@@ -1,0 +1,5 @@
+aiogram~=2.14
+environs~=8.0.0
+wikipedia
+requirements==2.26.3
+requests
